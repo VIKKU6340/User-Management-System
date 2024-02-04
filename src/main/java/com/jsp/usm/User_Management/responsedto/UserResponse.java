@@ -9,7 +9,6 @@ import lombok.Setter;
 @Setter
 @Builder
 @AllArgsConstructor
-
 public class UserResponse {
 private int userId;
 private String userName;
